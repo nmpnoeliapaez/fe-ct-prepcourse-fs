@@ -10,7 +10,7 @@ const nuevoString = "Hola mundo";
 // Crea una variable de tipo number.
 const nuevoNumero = 3;
 
-// Crea una variable de tipo boolean.
+//Crea una variable de tipo boolean.
 const nuevoBoolean = false;
 
 // Resuelve el siguiente problema matemático.
